@@ -2,7 +2,7 @@
 
 ECG is fundamentally very simple in concept. I was given literal boxes of expired ECG stickers by a friend who couldn't use them for clinical research anymore, so what better time to try my hand?
 
-![Pretty easy to implement with hard wiring](https://imgur.com/a/lUV3mI6)
+[Pretty easy to implement with hard wiring](https://imgur.com/a/lUV3mI6)
 
 EQUIPMENT:
 * 1x Arduino UNO
